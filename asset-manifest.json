@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/toantoan22222.github.io/mypropo/static/css/main.d1b05096.chunk.css",
+    "main.js": "/toantoan22222.github.io/mypropo/static/js/main.5d58e65d.chunk.js",
+    "main.js.map": "/toantoan22222.github.io/mypropo/static/js/main.5d58e65d.chunk.js.map",
+    "runtime-main.js": "/toantoan22222.github.io/mypropo/static/js/runtime-main.c9b40c4f.js",
+    "runtime-main.js.map": "/toantoan22222.github.io/mypropo/static/js/runtime-main.c9b40c4f.js.map",
+    "static/js/2.91d1e0a7.chunk.js": "/toantoan22222.github.io/mypropo/static/js/2.91d1e0a7.chunk.js",
+    "static/js/2.91d1e0a7.chunk.js.map": "/toantoan22222.github.io/mypropo/static/js/2.91d1e0a7.chunk.js.map",
+    "index.html": "/toantoan22222.github.io/mypropo/index.html",
+    "precache-manifest.4124ba616ede0a210e38c4eb1ccb8dae.js": "/toantoan22222.github.io/mypropo/precache-manifest.4124ba616ede0a210e38c4eb1ccb8dae.js",
+    "service-worker.js": "/toantoan22222.github.io/mypropo/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/toantoan22222.github.io/mypropo/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.91d1e0a7.chunk.js.LICENSE": "/toantoan22222.github.io/mypropo/static/js/2.91d1e0a7.chunk.js.LICENSE",
+    "static/media/logo.svg": "/toantoan22222.github.io/mypropo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9b40c4f.js",
+    "static/js/2.91d1e0a7.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.5d58e65d.chunk.js"
+  ]
+}
