@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/toantoan22222.github.io/mypropo/static/css/main.d1b05096.chunk.css",
-    "main.js": "/toantoan22222.github.io/mypropo/static/js/main.126908c4.chunk.js",
-    "main.js.map": "/toantoan22222.github.io/mypropo/static/js/main.126908c4.chunk.js.map",
-    "runtime-main.js": "/toantoan22222.github.io/mypropo/static/js/runtime-main.c9b40c4f.js",
-    "runtime-main.js.map": "/toantoan22222.github.io/mypropo/static/js/runtime-main.c9b40c4f.js.map",
-    "static/js/2.e1fc80e5.chunk.js": "/toantoan22222.github.io/mypropo/static/js/2.e1fc80e5.chunk.js",
-    "static/js/2.e1fc80e5.chunk.js.map": "/toantoan22222.github.io/mypropo/static/js/2.e1fc80e5.chunk.js.map",
-    "index.html": "/toantoan22222.github.io/mypropo/index.html",
-    "precache-manifest.949899fbe9c532bc745e962e82458a86.js": "/toantoan22222.github.io/mypropo/precache-manifest.949899fbe9c532bc745e962e82458a86.js",
-    "service-worker.js": "/toantoan22222.github.io/mypropo/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/toantoan22222.github.io/mypropo/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.e1fc80e5.chunk.js.LICENSE": "/toantoan22222.github.io/mypropo/static/js/2.e1fc80e5.chunk.js.LICENSE"
+    "main.css": "/mypropo/static/css/main.d1b05096.chunk.css",
+    "main.js": "/mypropo/static/js/main.087104b7.chunk.js",
+    "main.js.map": "/mypropo/static/js/main.087104b7.chunk.js.map",
+    "runtime-main.js": "/mypropo/static/js/runtime-main.48a679e2.js",
+    "runtime-main.js.map": "/mypropo/static/js/runtime-main.48a679e2.js.map",
+    "static/js/2.e1fc80e5.chunk.js": "/mypropo/static/js/2.e1fc80e5.chunk.js",
+    "static/js/2.e1fc80e5.chunk.js.map": "/mypropo/static/js/2.e1fc80e5.chunk.js.map",
+    "index.html": "/mypropo/index.html",
+    "precache-manifest.49a93f1f513c8485aa8f2063af3edbba.js": "/mypropo/precache-manifest.49a93f1f513c8485aa8f2063af3edbba.js",
+    "service-worker.js": "/mypropo/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/mypropo/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.e1fc80e5.chunk.js.LICENSE": "/mypropo/static/js/2.e1fc80e5.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.c9b40c4f.js",
+    "static/js/runtime-main.48a679e2.js",
     "static/js/2.e1fc80e5.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.126908c4.chunk.js"
+    "static/js/main.087104b7.chunk.js"
   ]
 }
